@@ -2,5 +2,8 @@
   "name": "node_esm_scrivito",
   "version": "0.0.0",
   "type": "module",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "scrivito": "^1.32.0"
+  }
 }
